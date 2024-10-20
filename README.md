@@ -27,6 +27,6 @@ Welcome to my GitHub profile! I'm a passionate fullstack programming learner ðŸŒ
 
 Feel free to reach out:
 
-- [Twitter](https://twitter.com/yourprofile)
+- [Twitter](https://twitter.com/devpabloctrl)
 
 Thanks for visiting my profile! ðŸš€
