@@ -1,1 +1,32 @@
-![4a685700-cddb-4e64-8808-acee5bcb783a](https://github.com/user-attachments/assets/5e521aa9-e56f-4c38-a893-5f3f91ec3a7e)
+# 👋 Hello, I'm Pablo!
+
+Welcome to my GitHub profile! I'm a passionate fullstack programming learner 🌱 from Brazil, and I love building projects that solve real-world problems.
+
+## 🛠️ Skills
+
+- **Frontend:**
+  - HTML, CSS, JavaScript
+  - React
+
+- **Backend:**
+  - Node.js
+
+- **Databases:**
+  - MongoDB, MySQL
+
+- **Other:**
+  - Git, GitHub, RESTful APIs
+
+## 🌱 Currently Learning
+
+- TypeScript
+- MySQL
+- MongoDB
+
+## 📫 Connect with Me
+
+Feel free to reach out:
+
+- [Twitter](https://twitter.com/yourprofile)
+
+Thanks for visiting my profile! 🚀
